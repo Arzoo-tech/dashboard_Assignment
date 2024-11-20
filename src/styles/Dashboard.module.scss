@@ -1,5 +1,6 @@
 .dashboard {
   padding: 20px;
+  background-color: #f9f9f9; 
 
   .content-container {
     display: flex;
@@ -8,15 +9,14 @@
   }
 
   .table-container {
-    flex: 7;
-    background-color: #f9f9f9; 
+    flex: 6;
     padding: 10px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
   .workflow-container {
-    flex: 3;
+    flex: 4;
     background-color: #ffffff; 
     padding: 10px;
     border-radius: 8px;
